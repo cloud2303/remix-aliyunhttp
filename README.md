@@ -35,6 +35,14 @@ npm install remix-aliyunhttp
 ---package.json
 ---index.js
 ```
+添加自定义域名(阿里的硬性要求~)就可以访问了
+
+如果部署之后访问出现
+```
+Error: Cannot find module './client'\n
+```
+
+使用`npx remix setup`,再次进行部署即可
 
 
 
