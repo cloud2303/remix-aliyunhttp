@@ -1,0 +1,20 @@
+{
+  "name": "remix-aliyunhttp",
+  "version": "0.1.0",
+  "description": "阿里云http函数remix适配器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@remix-run/react": "^1.0.6",
+    "@remix-run/node": "^1.0.6",
+    "@remix-run/dev": "^1.0.6",
+    "@remix-run/server-runtime": "^1.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "remix": "^1.0.6"
+  },
+  "author": "符嘉辉",
+  "license": "MIT"
+}
