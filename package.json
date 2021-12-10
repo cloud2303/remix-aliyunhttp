@@ -1,6 +1,6 @@
 {
   "name": "remix-aliyunhttp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "阿里云http函数remix适配器",
   "main": "index.js",
   "scripts": {
