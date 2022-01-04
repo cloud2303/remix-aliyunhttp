@@ -1,6 +1,25 @@
 # 使用指南
 
-暂时就这样用吧，考完试再更新
+适配remix 1.1.1
+
+### 使用serverlessDev部署remix(推荐)
+
+阿里云函数计算+阿里云对象存储oss
+
+安装地址
+
+[https://serverlessdevs.resume.net.cn/zh-cn/developer/index.html](https://serverlessdevs.resume.net.cn/zh-cn/developer/index.html)
+
+建议安装可视化工具
+
+配置好密钥
+
+点击模板地址,查看教程
+[https://github.com/cloud2303/serverlessDev-remix](https://github.com/cloud2303/serverlessDev-remix)
+
+
+
+### 手动设置(不推荐)
 
 示例 使用阿里云函数加腾讯云存储桶，阿里http函数必须要加上域名才能访问
 
@@ -41,15 +60,7 @@ npm install remix-aliyunhttp
 ---package.json
 ---index.js
 ```
-添加自定义域名(阿里的硬性要求~)就可以访问了
-
-如果部署之后访问出现
-```
-Error: Cannot find module './client'\n
-```
-
-使用`npx remix setup`,再次进行部署即可
-
+绑定自定义域名就可以访问了
 
 
 

@@ -1,7 +1,7 @@
 {
   "name": "remix-aliyunhttp",
-  "version": "0.1.5",
-  "description": "阿里云http函数remix1.1.0适配器",
+  "version": "0.2.1",
+  "description": "阿里云http函数remix1.1.1适配器",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,13 +11,19 @@
     "url": "https://github.com/cloud2303/remix-aliyunhttp.git"  
   },
   "dependencies": {
-    "@remix-run/react": "^1.1.0",
-    "@remix-run/node": "^1.1.0",
-    "@remix-run/server-runtime": "^1.1.0",
-    "@remix-run/dev": "^1.1.0",
+    "@remix-run/react": "^1.1.1",
+    "@remix-run/node": "^1.1.1",
+    "@remix-run/server-runtime": "^1.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "remix": "^1.1.0"
+    "remix": "^1.1.1",
+    "@remix-run/dev": "^1.1.1"
+  },
+  "devDependencies": {
+    
+  },
+  "engines": {
+    "node": ">=14"
   },
   "author": "符嘉辉",
   "license": "MIT"
