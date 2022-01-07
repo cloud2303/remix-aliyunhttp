@@ -1,6 +1,6 @@
 {
   "name": "remix-aliyunhttp",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "阿里云http函数remix1.1.1适配器",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,8 @@
     "url": "https://github.com/cloud2303/remix-aliyunhttp.git"
   },
   "dependencies": {
-    "@remix-run/react": "^1.1.1",
     "@remix-run/node": "^1.1.1",
-    "@remix-run/server-runtime": "^1.1.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "remix": "^1.1.1",
-    "@remix-run/dev": "^1.1.1"
+    "@remix-run/server-runtime": "^1.1.1"
   },
   "devDependencies": {},
   "engines": {

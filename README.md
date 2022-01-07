@@ -21,13 +21,16 @@
 
 ### 手动设置(不推荐)
 
+**前置要求**
+remix做项目时默认选remixappserver
+
 示例 使用阿里云函数加腾讯云存储桶，阿里http函数必须要加上域名才能访问
 
 [http://ali.jiahuiblog.com/](http://ali.jiahuiblog.com/)
 
 
 在remix.config.json中指定要部署的public静态文件夹的位置，比如我这里放到了存储桶
-![静态文件的位置](./md/1639054088730.jpg)
+![静态文件的位置](https://s3.bmp.ovh/imgs/2022/01/a2181ef879513a1a.jpg)
 ```
 npm run build
 ```
@@ -50,7 +53,7 @@ exports.handler = createRequestHandler({
 });
 ```
 ```
-安装依赖
+除了你开发的时候安装的依赖，还需要安装适配器
 npm install remix-aliyunhttp
 ```
 阿里云函数的目录结构像这样
