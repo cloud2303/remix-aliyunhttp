@@ -26,7 +26,7 @@ remix做项目时默认选remixappserver
 
 示例 使用阿里云函数加腾讯云存储桶，阿里http函数必须要加上域名才能访问
 
-[http://ali.jiahuiblog.com/](http://ali.jiahuiblog.com/)
+[https://test.jiahuiblog.com/](https://test.jiahuiblog.com/)
 
 
 在remix.config.json中指定要部署的public静态文件夹的位置，比如我这里放到了存储桶
