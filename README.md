@@ -1,6 +1,6 @@
 # 使用指南
 
-适配remix 1.1.1
+适配remix 1.1.3
 
 ### 使用serverlessDev部署remix(推荐)
 
