@@ -1,7 +1,7 @@
 {
   "name": "remix-aliyunhttp",
-  "version": "0.2.5",
-  "description": "阿里云http函数remix1.1.1适配器",
+  "version": "0.3.0",
+  "description": "阿里云http函数 remix1.3.4可用",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "https://github.com/cloud2303/remix-aliyunhttp.git"
   },
   "dependencies": {
-    "@remix-run/node": "^1.1.3",
-    "@remix-run/server-runtime": "^1.1.3"
+    "@remix-run/node": "^1.3.4",
+    "@remix-run/server-runtime": "^1.3.4"
   },
   "devDependencies": {},
   "engines": {

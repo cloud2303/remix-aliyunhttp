@@ -1,6 +1,8 @@
 # 使用指南
 
-适配remix 1.1.3
+适配remix 1.3.4
+
+借鉴remix-vercel适配器
 
 ### 使用serverlessDev部署remix(推荐)
 
