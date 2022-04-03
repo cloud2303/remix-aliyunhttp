@@ -10,6 +10,9 @@
 
 阿里云函数计算+阿里云对象存储oss
 
+示例网站：[https://test.jiahuiblog.com](https://test.jiahuiblog.com)
+
+
 安装地址
 
 [https://serverlessdevs.resume.net.cn/zh-cn/developer/index.html](https://serverlessdevs.resume.net.cn/zh-cn/developer/index.html)
