@@ -2,6 +2,8 @@
 
 适配remix 1.3.4
 
+(实际每次更新只改了下readme～)
+
 借鉴remix-vercel适配器
 
 ### 使用serverlessDev部署remix(推荐)
